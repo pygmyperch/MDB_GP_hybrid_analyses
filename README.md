@@ -1,5 +1,5 @@
 <div style="text-align: center;">
-  <img src="https://tinyurl.com/3h58r8pd" alt="GP" width="600"/>
+  <img src="https://tinyurl.com/bdda2ca9" alt="GP" width="500"/>
 </div>
 
 # Otolith and genomic data reveal temporal insights into basin-wide genetic effects of stocking in a mobile, long-lived Australian freshwater fish species
