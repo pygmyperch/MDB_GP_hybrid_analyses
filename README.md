@@ -1,8 +1,13 @@
+<div style="text-align: center;">
+  <img src="https://tinyurl.com/3pp9sa6n" alt="GP" width="600"/>
+</div>
+
 # Otolith and genomic data reveal temporal insights into basin-wide genetic effects of stocking in a mobile, long-lived Australian freshwater fish species
   
 This repository contains code to perform analyses to detect out-of-basin hybridisation of golden perch from the MDB for the paper:
 
 Harrisson KA, Beheregaray LB, Bice CM, Booth EJ, Brauer CJ, Butler GL, Dawson D, Dudchenko O, Fanson BG, Hackett G, Harris A, Jones M, Kaur P, Koster WM, Krusic-Golub K, Lieberman Aiden E, Lieschke JA, Lyon J, Morrongiello JR, Murphy NP, O'Dwyer J, Raymond SMC, Rourke ML, Strawbridge A, Thiem JD, Tonkin Z, Yen JDL, and Zampatti B (In review) *Otolith and genomic data reveal temporal insights into basin-wide genetic effects of stocking in a mobile, long-lived Australian freshwater fish species*
+
 
 ## Code
 
