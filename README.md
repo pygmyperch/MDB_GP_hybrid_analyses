@@ -1,4 +1,4 @@
-<div style="text-align: center;">
+<div style="display: flex; justify-content: center;">
   <img src="https://tinyurl.com/bdda2ca9" alt="GP" width="500"/>
 </div>
 
