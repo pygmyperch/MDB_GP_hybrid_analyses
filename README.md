@@ -15,5 +15,5 @@
 
 
 ****
-### Chris Brauer&nbsp; [![Alt text](https://github.com/pygmyperch/MDB_GP_hybrid_analyses/issues/1#issue-2549430004)](mailto:chris.brauer@flinders.edu.au)
+### Chris Brauer&nbsp; [![Alt text](https://private-user-images.githubusercontent.com/11804121/370975061-cdade335-98b6-41da-a5a7-d710151a8745.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MjczMjI0MTQsIm5iZiI6MTcyNzMyMjExNCwicGF0aCI6Ii8xMTgwNDEyMS8zNzA5NzUwNjEtY2RhZGUzMzUtOThiNi00MWRhLWE1YTctZDcxMDE1MWE4NzQ1LnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDA5MjYlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwOTI2VDAzNDE1NFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTUxZWQ1ZDk2MWQ2ZGU3MmJkMjlhY2VhYzA3NTllYmY4M2ZhZmE4NWRkMjc2MmZiZmM5NmZkODQ2Zjk3OTkyYjImWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.5WyvoVMW5GROCyYk1f4I7NrUGXln5MQhIbnzZONb1zM)](mailto:chris.brauer@flinders.edu.au)
 ****
